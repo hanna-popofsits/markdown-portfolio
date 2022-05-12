@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+This is my name, and here comes a header:
+
+# The header
