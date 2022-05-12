@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Dance 💃
+2. Surfing 🏄‍♀️
+3. Sleeping 😴
+4. eating 🍔
+5. partying 🍸
